@@ -9,7 +9,7 @@ useHead({
 </script>
 <template>
   <div>
-    <h1> This is an about page on the app</h1>
+    <h1> This is an about page on the app (on dev)</h1>
   </div>
 </template>
 

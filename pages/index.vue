@@ -9,7 +9,7 @@ useHead({
 </script>
 <template>
   <div>
-    <h1> App Running on Firebase</h1>
+    <h1> App Running on Firebase budi</h1>
   </div>
 </template>
 

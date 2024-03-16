@@ -40,3 +40,8 @@ npm run preview
 ```
 
 test commit on dev
+
+to deploy to main :
+    npm run deploy
+
+bikin merge, apakah ke deploy ?
